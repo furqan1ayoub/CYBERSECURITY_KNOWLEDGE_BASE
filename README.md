@@ -1,45 +1,8 @@
-# 🛡️ Cybersecurity Knowledge Base
+### Welcome! 👋
 
-Welcome! 👋
 
-This repository is my personal cybersecurity knowledge base where I document what I learn through practical labs, research, and hands-on experience.
+***My Tryhackme Writeups*** 
 
-Instead of simply completing rooms or courses, I aim to understand **why** something works, **how** it works, and **how it can be identified, exploited, and mitigated**.
-
-The purpose of this repository is to:
-
-* 📚 Build a searchable knowledge base
-* 📝 Document my cybersecurity learning journey
-* 🔍 Record important commands, tools, and methodologies
-* 💻 Improve my technical documentation skills
-* 🚀 Track my progress towards becoming a Penetration Tester
-
----
-
-## 📖 What You'll Find
-
-Each note generally includes:
-
-* Overview
-* Concepts Learned
-* Tools Used
-* Important Commands
-* Practical Notes
-* Key Takeaways
-* Personal Lessons Learned
-
-The focus is on understanding concepts rather than collecting flags or walkthroughs.
-
----
-
-## 🎯 Current Learning
-
-* ✅ TryHackMe - Jr Penetration Tester Path
-* 🔄 Practical Web Application Security
-* 🔄 Linux & Windows Enumeration
-* 🔄 Active Directory Fundamentals
-
----
 
 ## 📌 Disclaimer
 
@@ -49,11 +12,10 @@ They are not intended to provide walkthroughs, spoilers, or solutions to labs or
 
 ---
 
+## Room Link
+* Tryhackme - https://tryhackme.com/path/outline/jrpenetrationtester
+
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/furqan1ayoub
 * LinkedIn: https://www.linkedin.com/in/furqan-ayoub-39a6a935b
-
----
-
-> *"Learning cybersecurity isn't about memorizing exploits—it's about understanding systems, thinking critically, and continuously improving."*
