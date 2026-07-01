@@ -1,8 +1,8 @@
 # Cyber Kill Chain
 ### Platform: TryHackMe
 ### Learning Path: Jr Penetration Tester
-### Difficulty: ⭐⭐☆☆☆
-### Date Completed: __-__-2026
+### Difficulty: ⭐⭐⭐☆☆
+### Date Completed: 01-07-2026
 
 ## Overview
 This room explains how most cyber attacks are carried out from start to finish using the Cyber Kill Chain. It shows how attackers think during each phase of an attack and how defenders can interrupt the attack before the attacker reaches their final objective.
