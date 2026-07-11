@@ -120,7 +120,7 @@ This room focuses on **post-port scan enumeration**, so there are **no new ports
 * NSE significantly expands Nmap's capabilities and should be used selectively based on discovered services.
 * `-A` is a convenient shortcut but should not replace targeted enumeration during professional engagements.
 * Always save scan results using `-oA` to simplify reporting and future analysis.
-* Using Specified ports for specific service checks is more often preffered than full scans as its fast and reliable.
+* Using Specified ports for specific service checks is more often preffered than full scans as its fast and reliable. Eg checking for vuln for outdated ftp only would save time instead checking every port vuln.
 
 ---
 
